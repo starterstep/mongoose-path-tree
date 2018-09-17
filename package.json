@@ -19,9 +19,9 @@
   "version": "1.2.1",
   "engine": "node >= 0.4.0",
   "dependencies": {
-    "mongoose": "4.4.16",
+    "mongoose": "5.2.15",
     "stream-worker": "0.x.x",
-    "shortid": "2.0.0"
+    "shortid": "2.2.13"
   },
   "devDependencies": {
     "async": "0.x.x",
